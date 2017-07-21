@@ -1,0 +1,15 @@
+.bgimage {
+    background-image: url("url.jpg") ;
+    background-size: 100%;
+}
+
+.bing{
+    border: 10px solid brown;
+    
+}
+.dbody{
+    background-color:white;
+    margin: 30px ;
+    border-radius: 20px;
+    padding: 10px;
+}
